@@ -12,6 +12,6 @@ This is an English to Pig Latin translator
 - Throws a custom exception if the text is not purely alphabetic
 - Ensures words that start with capital letters maintain capitalization in the Pig Latin translation
 
-Note: input has to be strictly alphabetic for the program to not throw an exception  
+<b>Note:</b> input has to be strictly alphabetic for the program to not throw an exception  
 valid input - Hello World  
 invalid input - Hello, World!
